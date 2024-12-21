@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh2cXJ1Z292aWloazVzMzN3a2ZpOHk3ajJmZ2V1OWVwYmE1MmE4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGcNjsfLNOZാവ്RckPz/giphy.gif" width="40%" />
+ 
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
 </div>
 
