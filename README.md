@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/followers/rider315?label=Follow&style=social" alt="GitHub followers" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=rider315&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rider315.rider315&left_color=green&right_color=red)
+ 
 </div>
 
 ###
