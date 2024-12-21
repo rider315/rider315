@@ -10,11 +10,11 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/GauravChaudhary865">
-    <img src="https://img.shields.io/github/followers/GauravChaudhary865?label=Follow&style=social" alt="GitHub followers" />
+  <a href="https://github.com/rider315">
+    <img src="https://img.shields.io/github/followers/rider315?label=Follow&style=social" alt="GitHub followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=GauravChaudhary865&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=GauravChaudhary865.GauravChaudhary865&left_color=green&right_color=red)
+  <img src="https://komarev.com/ghpvc/?username=rider315&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rider315.rider315&left_color=green&right_color=red)
 </div>
 
 ###
@@ -44,13 +44,13 @@
 ###
 
 <div align="left">
-  <a href="YOUR_INSTAGRAM_URL">
+  <a href="[YOUR_INSTAGRAM_URL](https://www.instagram.com/___mr._gaurav__1/?hl=en)">
     <img src="https://img.shields.io/badge/Instagram--E4405F?style=social&logo=instagram" alt="Instagram" />
   </a>
   <a href="mailto:gaurav.chaudhary.865022@gmail.com">
     <img src="https://img.shields.io/badge/Gmail--D14836?style=social&logo=gmail" alt="Gmail" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/gaurav-chaudhary-03900120b/)">
     <img src="https://img.shields.io/badge/LinkedIn--0077B5?style=social&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
@@ -58,8 +58,8 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/GauravChaudhary865">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravChaudhary865&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <a href="https://github.com/rider315">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rider315&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
 
