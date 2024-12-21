@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh2cXJ1Z292aWloazVzMzN3a2ZpOHk3ajJmZ2V1OWVwYmE1MmE4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGcNjsfLNOZാവ്RckPz/giphy.gif" width="40%" />
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
 </div>
 
 ###
@@ -13,6 +14,7 @@
     <img src="https://img.shields.io/github/followers/rider315?label=Follow&style=social" alt="GitHub followers" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=rider315&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rider315.rider315&left_color=green&right_color=red)
 </div>
 
 ###
