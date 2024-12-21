@@ -44,13 +44,13 @@
 ###
 
 <div align="left">
-  <a href="[YOUR_INSTAGRAM_URL](https://www.instagram.com/___mr._gaurav__1/?hl=en)">
+  <a href="https://www.instagram.com/___mr._gaurav__1/?hl=en">
     <img src="https://img.shields.io/badge/Instagram--E4405F?style=social&logo=instagram" alt="Instagram" />
   </a>
   <a href="mailto:gaurav.chaudhary.865022@gmail.com">
     <img src="https://img.shields.io/badge/Gmail--D14836?style=social&logo=gmail" alt="Gmail" />
   </a>
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/gaurav-chaudhary-03900120b/)">
+  <a href="https://www.linkedin.com/in/gaurav-chaudhary-03900120b/">
     <img src="https://img.shields.io/badge/LinkedIn--0077B5?style=social&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
