@@ -96,6 +96,4 @@ B.Tech. in Electronics and Communications Engineering
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GauravChaudhary865/GauravChaudhary865/output/snake.svg" alt="Snake animation" />
 
-###
