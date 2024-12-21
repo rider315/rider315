@@ -1,26 +1,28 @@
-<h2 align="left">Hi 👋! My name is Gaurav Chaudhary and I'm a Web Developer and Electronics and Communications Engineering Student, from India.</h2> 
+<h2 align="left">Hi 👋! My name is Gaurav Chaudhary and I'm a Web Developer and Electronics and Communications Engineering Student, from India.</h2>
 
-### 
+###
 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravChaudhary865&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravChaudhary865&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
-</div> 
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh2cXJ1Z292aWloazVzMzN3a2ZpOHk3ajJmZ2V1OWVwYmE1MmE4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGcNjsfLNOZാവ്RckPz/giphy.gif"  />
 
-### 
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh2cXJ1Z292aWloazVzMzN3a2ZpOHk3ajJmZ2V1OWVwYmE1MmE4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGcNjsfLNOZാവ്RckPz/giphy.gif"  /> 
-
-### 
+###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /> 
+  <a href="https://github.com/GauravChaudhary865">
+    <img src="https://img.shields.io/github/followers/GauravChaudhary865?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=GauravChaudhary865&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -38,10 +40,16 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> 
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> 
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> 
-</div> 
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram--E4405F?style=social&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:gaurav.chaudhary.865022@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail--D14836?style=social&logo=gmail" alt="Gmail" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn--0077B5?style=social&logo=linkedin" alt="LinkedIn" />
+  </a>
+</div>
 
 ###
 
@@ -131,7 +139,7 @@ B.Tech. in Electronics and Communications Engineering
 ## 📫 Contact
 
 - **Email:** [gaurav.chaudhary.865022@gmail.com](mailto:gaurav.chaudhary.865022@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](YOUR_LINKEDIN_URL_HERE)
+- **LinkedIn:** [LinkedIn Profile](YOUR_LINKEDIN_URL)
 - **GitHub:** [GitHub Profile](https://github.com/GauravChaudhary865)
 ###
 
