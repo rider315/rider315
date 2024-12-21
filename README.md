@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Gaurav Chaudhary, a Web Developer and Electronics & Communications Engineering Student from India.</h2>
+<h2 align="left">Hi 👋! I'm Gaurav Chaudhary, a Full Stack Developer from India.</h2>
 
 ###
 
