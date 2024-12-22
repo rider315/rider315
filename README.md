@@ -86,6 +86,8 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rider315&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Gaurav's GitHub Stats" />
   </a>
   <br>
+  <br>
+  <br>
   <a href="https://github.com/rider315">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rider315&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
