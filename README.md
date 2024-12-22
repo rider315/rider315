@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋! I'm Gaurav Chaudhary, a Full Stack Developer from India.</h2>
+<h2 align="left">Hi 👋! I'm Gaurav Chaudhary, a Web Developer and Electronics & Communications Engineering Student from India.</h2>
 
 ###
 
 <div align="center">
- 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh2cXJ1Z292aWloazVzMzN3a2ZpOHk3ajJmZ2V1OWVwYmE1MmE4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mGcNjsfLNOZാവ്RckPz/giphy.gif" width="40%" />
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
 </div>
 
@@ -14,12 +14,12 @@
     <img src="https://img.shields.io/github/followers/rider315?label=Follow&style=social" alt="GitHub followers" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=rider315&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
- 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=rider315.rider315&left_color=green&right_color=red)
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
@@ -43,7 +43,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/___mr._gaurav__1/?hl=en">
     <img src="https://img.shields.io/badge/Instagram--E4405F?style=social&logo=instagram" alt="Instagram" />
   </a>
@@ -57,16 +57,14 @@
 
 ###
 
-
+<div align="center">
+  <a href="https://github.com/rider315">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rider315&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
 
 ###
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rider315/rider315/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 ## 💼 Skills
 
 <div align="center">
