@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=rider315&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 200px;">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
