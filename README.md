@@ -15,6 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=rider315&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 <br>
+<br>
 
 <div align="center" style="margin-bottom: 200px;">
   <!-- Languages -->
@@ -65,6 +66,7 @@
   <img width="12" />
  
 </div>
+<br>
 <br>
 
 <div align="center">
