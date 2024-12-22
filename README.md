@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <a href="https://github.com/rider315">
     <img src="https://img.shields.io/github/followers/rider315?label=Follow&style=social" alt="GitHub followers" />
   </a>
